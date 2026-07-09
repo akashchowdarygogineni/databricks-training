@@ -257,9 +257,9 @@ You can add screenshots of:
 
 ## 👨‍💻 Author
 
-**Arjun**
+**Akash**
 
-B.Tech – Artificial Intelligence & Data Science
+B.Tech – Artificial Intelligence & Machine Learning
 
 Learning **Data Engineering | PySpark | Apache Spark | Databricks**
 

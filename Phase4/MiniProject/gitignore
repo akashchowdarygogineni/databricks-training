@@ -1,8 +1,0 @@
-output/
-data/sales.csv
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-.DS_Store
-*.crc
-_SUCCESS
